@@ -1,0 +1,7 @@
+Let's think of how to approach this
+
+I need to create a restful API
+
+It needs to see the page content and store what is found in the h1, h2, h3 tags, and all links. It will do this by parsing the source code (HTML)
+
+One point needs to get the URL to parse, the other end stores all URLs and the content that's in the DB
