@@ -5,3 +5,12 @@ I need to create a restful API
 It needs to see the page content and store what is found in the h1, h2, h3 tags, and all links. It will do this by parsing the source code (HTML)
 
 One point needs to get the URL to parse, the other end stores all URLs and the content that's in the DB
+
+Nokogiri will parse the HTML for me
+Open-uri will also be needed
+
+It looks like these are my main tools
+
+Now I just have to figure out how to do it in Ruby
+
+I haven't worked with Ruby since a long time ago and I haven't used it for web page related apps and such
